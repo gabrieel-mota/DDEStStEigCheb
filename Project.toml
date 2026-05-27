@@ -1,0 +1,10 @@
+name = "DDEStStEigCheb"
+uuid = "73da0cfc-37f7-48e5-a3d7-fa989279e602"
+version = "0.1.0"
+authors = ["Gabriel Mota Lima <gabriellima83@live.com>"]
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+LinearAlgebra = "1.12.0"
